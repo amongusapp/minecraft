@@ -1,0 +1,31 @@
+[
+  {
+    "title":"Wordpress Blogs",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Mod",
+        "provider":"webview",
+        "arguments":[
+          "https://amongusapp.github.io/app/main.html"
+        ]
+      },
+      {
+        "title":"GitHub",
+        "provider":"webview",
+        "arguments":[
+          "https://github.com/Dseym/amongUsMinecraft"
+        ]
+      },
+      {
+        "title":"Community",
+        "provider":"webview",
+        "arguments":[
+          "https://amongusapp.github.io/minecraft"
+        ]
+      }
+    ]
+  }
+]
